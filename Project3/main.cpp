@@ -1,7 +1,10 @@
+//HOa22028306
+
+
 #include <iostream>
 #include <string>
 //#include <cstdlib>
-
+ 
 using namespace std;
 
 const string figure[]
